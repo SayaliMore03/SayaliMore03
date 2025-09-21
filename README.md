@@ -33,7 +33,14 @@
 ---
 
 ### 🌐 Connect with Me  
-
+<p>
+  <a href="https://www.linkedin.com/in/sayali-more12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a> &nbsp  &nbsp
+  <a href="mailto:sayalimore2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+</p>
 
 
 

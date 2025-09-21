@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./BackgroundImage.jpg)
+
 
 
 
